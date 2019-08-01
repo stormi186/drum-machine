@@ -9,10 +9,6 @@ This project was bootstrapped with [Create React App documentation](https://face
 - User can press a keyboard key to play the corresponding drum sound
 - User can see a display with the name of the note
 
-## Technologies
-
-- Marked version: 0.7.0 - [Documentation](https://cdnjs.com/libraries/marked)
-
 ## Project preview
 
 - [Drum Machine - Codepen](https://codepen.io/stormi186/full/OeBYgz)
